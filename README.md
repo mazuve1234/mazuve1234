@@ -15,8 +15,5 @@
   </a>
 </p>
 
-## Repos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazuve1234&repo=github-readme-stats)](https://github.com/mazuve1234/critics-release-candidate-w10ex-c7-team2)
 
   
